@@ -7,4 +7,5 @@
 
 Напишите запрос, добавляющий новое поле userpic (с подходящим типом данных) в таблицу users.
 */
+
 ALTER TABLE users ADD COLUMN userpic BLOB;
